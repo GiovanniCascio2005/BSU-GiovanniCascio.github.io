@@ -1,2 +1,7 @@
-# BSU-GiovanniCascio.github.io
-Example page for CS155
+## Example Github Page!
+
+Hello! This is my Github page that I created in CS-HU250!
+
+This page is hosted at [BSU-GiovanniCascio.github.io](https://BSU-GiovanniCascio.github.io)
+
+This is my customization for my website. Hopefully I get a phenomenal grade :)
